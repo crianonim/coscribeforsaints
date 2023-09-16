@@ -1,0 +1,2 @@
+GET https://api.nhs.uk/medicines/?page=4
+subscription-key: 81b5ce2e59674c88a666cfad4d0919ff

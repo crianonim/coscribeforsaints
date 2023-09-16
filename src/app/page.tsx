@@ -3,7 +3,7 @@
 import { meds, findMeds, Med } from "./meds";
 import { useState } from "react";
 import { Card, CardHeader } from "@/components/ui/card";
-import { Check, ChevronsUpDown, Copy } from "lucide-react";
+import { ChevronsUpDown, Copy, ScrollText, Cross } from "lucide-react";
 
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
@@ -22,12 +22,13 @@ import {
 export default function Home() {
   const [open, setOpen] = useState(false);
   const [medList, setMedList] = useState<Med[]>([]);
-  const [value, setValue] = useState("");
   const [commandValue, setCommandValue] = useState("");
   return (
     <div className="p-4">
-      <h1 className="text-xl font-bol">
-        Co-Scribe For Saints (Thomas and Guy)
+      <h1 className="text-xl font-bol flex gap-1">
+        <ScrollText />
+        <div>Co-Scribe For Saints (Thomas and Guy)</div>
+        <Cross />
       </h1>
       <Card className="p-4">
         <CardHeader>Medicines</CardHeader>
@@ -40,12 +41,7 @@ export default function Home() {
                 aria-expanded={open}
                 className="w-[200px] justify-between"
               >
-                {value
-                  ? meds.find(
-                      (framework) =>
-                        framework.name.toLocaleLowerCase() === value
-                    )?.name
-                  : "Select medicine..."}
+                {"Select medicine..."}
                 <ChevronsUpDown className="ml-2 h-4 w-4 shrink-0 opacity-50" />
               </Button>
             </PopoverTrigger>
@@ -82,14 +78,6 @@ export default function Home() {
                           setCommandValue("");
                         }}
                       >
-                        <Check
-                          className={cn(
-                            "mr-2 h-4 w-4",
-                            value === framework.name
-                              ? "opacity-100"
-                              : "opacity-0"
-                          )}
-                        />
                         {framework.name}
                       </CommandItem>
                     ))}

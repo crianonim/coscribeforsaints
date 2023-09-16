@@ -633,5 +633,757 @@
       "description": "Find out how glimepiride treats type 2 diabetes and how to take it.",
       "url": "https://api.nhs.uk/medicines/glimepiride/"
     }
+  ],
+  [
+    {
+      "name": "Glyceryl trinitrate (GTN)",
+      "description": "Find out how glyceryl trinitrate (GTN) treats angina (chest pain) and anal fissures and how to take it.",
+      "url": "https://api.nhs.uk/medicines/glyceryl-trinitrate-gtn/"
+    },
+    {
+      "name": "Haloperidol",
+      "description": "Find out how haloperidol treats mental health conditions and feeling or being sick, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/haloperidol/"
+    },
+    {
+      "name": "Heparinoid",
+      "description": "Find out how heparinoid treats bruising, haematoma and vein inflammation (superficial thrombophlebitis) and how to use it.",
+      "url": "https://api.nhs.uk/medicines/heparinoid/"
+    },
+    {
+      "name": "Hormone replacement therapy (HRT)",
+      "description": "Find information about HRT for menopause symptoms, including the types of HRT, benefits and risks and how to take it.",
+      "url": "https://api.nhs.uk/medicines/hormone-replacement-therapy-hrt/"
+    },
+    {
+      "name": "Hydrocortisone",
+      "description": "NHS medicines information on hydrocortisone – what it is used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone/"
+    },
+    {
+      "name": "Hydrocortisone buccal tablets",
+      "description": "NHS medicines information on hydrocortisone buccal tablets – what they're used for, who can take them, how to take them, side effects and dosage.",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-buccal-tablets/"
+    },
+    {
+      "name": "Hydrocortisone for piles and itchy bottom",
+      "description": "NHS medicines information on hydrocortisone for piles and itchy bottom – what it's used for, side effects, dosage and who can use it.",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/"
+    },
+    {
+      "name": "Hydrocortisone for skin",
+      "description": "NHS medicines information on hydrocortisone skin cream, ointment and lotion - what it’s used for, who can use it, how to apply it, side effects and dosage.",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-skin-cream/"
+    },
+    {
+      "name": "Hydrocortisone injections",
+      "description": "NHS medicines information on hydrocortisone injections – what they're used for, side effects, and who can have them",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-injections/"
+    },
+    {
+      "name": "Hydrocortisone rectal foam",
+      "description": "NHS medicines information on hydrocortisone rectal foam – this medicine has been discontinued.",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-rectal-foam/"
+    },
+    {
+      "name": "Hydrocortisone tablets",
+      "description": "NHS medicines information on hydrocortisone tablets – what they're used for, who can take them,  how to take them, side effects and dosage",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-tablets/"
+    },
+    {
+      "name": "Hydroxocobalamin",
+      "description": "Find out how hydroxocobalamin treats and prevents vitamin B12 deficiency anaemia, and how you'll have it.",
+      "url": "https://api.nhs.uk/medicines/hydroxocobalamin/"
+    },
+    {
+      "name": "Hydroxychloroquine",
+      "description": "Find out how hydroxychloroquine treats inflammatory conditions including rheumatoid arthritis and skin conditions, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/hydroxychloroquine/"
+    },
+    {
+      "name": "Hyoscine hydrobromide (Kwells and Joy-Rides)",
+      "description": "Find out how hyoscine hydrobromide treats travel sickness and how to take it.",
+      "url": "https://api.nhs.uk/medicines/hyoscine-hydrobromide/"
+    },
+    {
+      "name": "Ibuprofen and codeine",
+      "description": "NHS medicines information on ibuprofen and codeine – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/"
+    },
+    {
+      "name": "Ibuprofen for adults (Nurofen)",
+      "description": "Other brand names: Brufen, Calprofen, Fenbid, Ibugel, Ibuleve. Find out how ibuprofen treats pain and swelling (inflammation), and how to take it.",
+      "url": "https://api.nhs.uk/medicines/ibuprofen-for-adults/"
+    },
+    {
+      "name": "Ibuprofen for children",
+      "description": "Find out how ibuprofen for children treats pain and inflammation (swelling) including cold symptoms, teething, toothache, sprains and strains, and reduces a high temperature, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/ibuprofen-for-children/"
+    },
+    {
+      "name": "Indapamide",
+      "description": "Brand names: Natrilix, Indipam, Rawel, Tensaid, Alkapamid. Find out how indapamide treats high blood pressure and how to take it.",
+      "url": "https://api.nhs.uk/medicines/indapamide/"
+    },
+    {
+      "name": "Insulin",
+      "description": "Find information about types of insulin and how to take it for type 1 diabetes, type 2 diabetes and gestational diabetes.",
+      "url": "https://api.nhs.uk/medicines/insulin/"
+    },
+    {
+      "name": "Irbesartan",
+      "description": "Brand name: Aprovel. Find out how irbesartan treats high blood pressure (hypertension) and helps to prevent the risk of strokes, heart attacks and kidney problems.",
+      "url": "https://api.nhs.uk/medicines/irbesartan/"
+    },
+    {
+      "name": "Isosorbide mononitrate and isosorbide dinitrate",
+      "description": "NHS medicines information on isosorbide mononitrate and isosorbide dinitrate – what they're used for, side effects, dosage and who can take them.",
+      "url": "https://api.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/"
+    },
+    {
+      "name": "Isotretinoin capsules (Roaccutane)",
+      "description": "Other brand names: Rizuderm, Reticutan. Find out how isotretinoin capsules treat acne and how to take them.",
+      "url": "https://api.nhs.uk/medicines/isotretinoin-capsules/"
+    },
+    {
+      "name": "Isotretinoin gel (Isotrex)",
+      "description": "NHS medicines information on isotretinoin gel (Isotrex) – this medicine has been discontinued.",
+      "url": "https://api.nhs.uk/medicines/isotretinoin-gel/"
+    },
+    {
+      "name": "Ketoconazole",
+      "description": "NHS medicines information on ketoconazole – what it's used for, side effects, dosage and who can use it.",
+      "url": "https://api.nhs.uk/medicines/ketoconazole/"
+    },
+    {
+      "name": "Labetalol",
+      "description": "Brand name: Trandate. Find out how labetalol treats high blood pressure (hypertension) including high blood pressure in pregnancy and angina, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/labetalol/"
+    }
+  ],
+  [
+    {
+      "name": "Lactulose",
+      "description": "Brand names: Duphalac, Lactugal. Find out how lactulose treats constipation and hepatic encephalopathy, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/lactulose/"
+    },
+    {
+      "name": "Lamotrigine",
+      "description": "Brand name: Lamictal. Find out how lamotrigine treats epilepsy and bipolar disorder, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/lamotrigine/"
+    },
+    {
+      "name": "Lansoprazole",
+      "description": "NHS medicines information on lansoprazole – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/lansoprazole/"
+    },
+    {
+      "name": "Latanoprost",
+      "description": "Find out how latanoprost treats high pressure inside the eye, and how to use it.",
+      "url": "https://api.nhs.uk/medicines/latanoprost/"
+    },
+    {
+      "name": "Lercanidipine",
+      "description": "Brand name: Zanidip. Find out how lercanidipine treats high blood pressure (hypertension), and how to take it.",
+      "url": "https://api.nhs.uk/medicines/lercanidipine/"
+    },
+    {
+      "name": "Letrozole",
+      "description": "NHS medicines information on letrozole – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/letrozole/"
+    },
+    {
+      "name": "Levetiracetam",
+      "description": "Brand names: Keppra, Desitrend. Find out how levetiracetam treats epilepsy, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/levetiracetam/"
+    },
+    {
+      "name": "Levothyroxine",
+      "description": "NHS medicines information on levothyroxine – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/levothyroxine/"
+    },
+    {
+      "name": "Lidocaine for mouth and throat",
+      "description": "Find out how lidocaine treats mouth ulcers, sore throats and teething, and how to use it.",
+      "url": "https://api.nhs.uk/medicines/lidocaine-for-mouth-and-throat/"
+    },
+    {
+      "name": "Lidocaine for piles and itchy bottom",
+      "description": "Find out how lidocaine treats piles (haemorrhoids) and itchy bottom, and how to use it.",
+      "url": "https://api.nhs.uk/medicines/lidocaine-for-piles-and-itchy-bottom/"
+    },
+    {
+      "name": "Lidocaine skin cream",
+      "description": "Find out how lidocaine skin cream numbs the skin before minor procedures, and how to use it.",
+      "url": "https://api.nhs.uk/medicines/lidocaine-skin-cream/"
+    },
+    {
+      "name": "Linagliptin",
+      "description": "Brand name: Trajenta. Find out how linagliptin treats type 2 diabetes, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/linagliptin/"
+    },
+    {
+      "name": "Lisinopril",
+      "description": "Brand name: Zestril. Find out how lisinopril treats high blood pressure (hypertension) and heart failure, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/lisinopril/"
+    },
+    {
+      "name": "Lithium",
+      "description": "Find out how lithium treats mood disorders such as mania and bipolar disorder, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/lithium/"
+    },
+    {
+      "name": "Loperamide",
+      "description": "NHS medicines information on loperamide – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/loperamide/"
+    },
+    {
+      "name": "Loratadine (Clarityn)",
+      "description": "NHS medicines information on loratadine (Clarityn) - what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/loratadine/"
+    },
+    {
+      "name": "Lorazepam",
+      "description": "Find out how lorazepam treats anxiety and sleeping problems, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/lorazepam/"
+    },
+    {
+      "name": "Losartan",
+      "description": "Brand name: Cozaar. Find out how losartan treats high blood pressure (hypertension) and heart failure, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/losartan/"
+    },
+    {
+      "name": "Low-dose aspirin",
+      "description": "Brand names: Danamep, Mandaprin, Nu-Seals. Find out how low-dose aspirin helps prevent heart attacks and strokes, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/low-dose-aspirin/"
+    },
+    {
+      "name": "Lymecycline",
+      "description": "Brand name: Tetralysal 300. Find out how lymecycline treats acne and infections and how to take it.",
+      "url": "https://api.nhs.uk/medicines/lymecycline/"
+    },
+    {
+      "name": "Macrogol",
+      "description": "Find out how macrogol treats constipation and how to take it.",
+      "url": "https://api.nhs.uk/medicines/macrogol/"
+    },
+    {
+      "name": "Mebendazole",
+      "description": "Find out how mebendazole treats threadworms, roundworms and other worm infections, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/mebendazole/"
+    },
+    {
+      "name": "Mebeverine",
+      "description": "Find out how mebeverine treats muscle spasms and stomach cramps, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/mebeverine/"
+    },
+    {
+      "name": "Medroxyprogesterone tablets",
+      "description": "Find out how medroxyprogesterone tablets treat hormonal conditions such as heavy periods, endometriosis and polycystic ovary syndrome (PCOS), and how to take them.",
+      "url": "https://api.nhs.uk/medicines/medroxyprogesterone-tablets/"
+    },
+    {
+      "name": "Melatonin",
+      "description": "Find out how melatonin treats sleep problems like insomnia, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/melatonin/"
+    }
+  ],
+  [
+    {
+      "name": "Memantine",
+      "description": "Find out how memantine treats dementia, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/memantine/"
+    },
+    {
+      "name": "Mesalazine",
+      "description": "NHS medicines information on mesalazine – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/mesalazine/"
+    },
+    {
+      "name": "Metformin",
+      "description": "Brand names: Axpinet, Diagemet, Glucient, Glucophage, Metabet. Find out how metformin treats type 2 diabetes, gestational diabetes and polycystic ovary syndrome, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/metformin/"
+    },
+    {
+      "name": "Methadone",
+      "description": "NHS medicines information on methadone – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/methadone/"
+    },
+    {
+      "name": "Methotrexate",
+      "description": "Find out how methotrexate treats rheumatoid arthritis, psoriasis, Crohn's disease and other autoimmune conditions, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/methotrexate/"
+    },
+    {
+      "name": "Methylphenidate for adults",
+      "description": "NHS medicines information on methylphenidate – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/methylphenidate-adults/"
+    },
+    {
+      "name": "Methylphenidate for children",
+      "description": "NHS medicines information on methylphenidate – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/methylphenidate-children/"
+    },
+    {
+      "name": "Metoclopramide",
+      "description": "Find out how metoclopramide treats feeling sick (nausea) and being sick (vomiting), and how to take it.",
+      "url": "https://api.nhs.uk/medicines/metoclopramide/"
+    },
+    {
+      "name": "Metoprolol",
+      "description": "Find out how metoprolol treats high blood pressure, heart problems and migraine, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/metoprolol/"
+    },
+    {
+      "name": "Metronidazole",
+      "description": "Brand names: Acea, Anabact, Flagyl, Metrogel, Metrosa, Rosiced, Rozex, Vaginyl, Zidoval, Zyomet. Find out how metronidazole treats infections and how to take it.",
+      "url": "https://api.nhs.uk/medicines/metronidazole/"
+    },
+    {
+      "name": "Mirabegron",
+      "description": "Find out how mirabegron treats the symptoms of an overactive bladder such as needing to pee more often, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/mirabegron/"
+    },
+    {
+      "name": "Mirtazapine",
+      "description": "Find out how mirtazapine treats depression, obsessive compulsive disorder (OCD) and anxiety, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/mirtazapine/"
+    },
+    {
+      "name": "Molnupiravir (Lagevrio)",
+      "description": "Brand name: Lagevrio. Find out how molnupiravir treats COVID-19 and how to take it.",
+      "url": "https://api.nhs.uk/medicines/molnupiravir/"
+    },
+    {
+      "name": "Mometasone for skin",
+      "description": "NHS medicines information on mometasone for skin – what it’s used for, side effects, dosage and who can use it.",
+      "url": "https://api.nhs.uk/medicines/mometasone-for-skin/"
+    },
+    {
+      "name": "Mometasone inhalers",
+      "description": "Find out how mometasone inhalers treat asthma and how to use them.",
+      "url": "https://api.nhs.uk/medicines/mometasone-inhaler/"
+    },
+    {
+      "name": "Mometasone nasal spray",
+      "description": "NHS medicines information on mometasone nasal spray – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/mometasone-nasal-spray/"
+    },
+    {
+      "name": "Montelukast",
+      "description": "Find out how montelukast treats symptoms of asthma and how to take it.",
+      "url": "https://api.nhs.uk/medicines/montelukast/"
+    },
+    {
+      "name": "Morphine",
+      "description": "Brand names: MST, Zomorph, Sevredol, Morphgesic, MXL, Oramorph. Find out how morphine treats severe pain and how to take it.",
+      "url": "https://api.nhs.uk/medicines/morphine/"
+    },
+    {
+      "name": "Naproxen",
+      "description": "Brand names: Naprosyn, Stirlescent. Find out how naproxen treats pain and swelling and how to take it.",
+      "url": "https://api.nhs.uk/medicines/naproxen/"
+    },
+    {
+      "name": "Nefopam",
+      "description": "NHS medicines information on nefopam – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/nefopam/"
+    },
+    {
+      "name": "Nicorandil",
+      "description": "Brand name: Ikorel. Find out how nicorandil treats chest pain (angina), and how to take it.",
+      "url": "https://api.nhs.uk/medicines/nicorandil/"
+    },
+    {
+      "name": "Nifedipine",
+      "description": "Brand names: Adalat, Adipine, Coracten, Fortipine, Nifedipress. Find out how nifedipine treats high blood pressure, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/nifedipine/"
+    },
+    {
+      "name": "Nitrofurantoin",
+      "description": "Brand names: Aratoin, Furadantin, Macrobid, Macrodantin. Find out how nitrofurantoin treats urinary tract infections (UTIs) and how to take it.",
+      "url": "https://api.nhs.uk/medicines/nitrofurantoin/"
+    },
+    {
+      "name": "Nortriptyline",
+      "description": "NHS medicines information on nortriptyline – how it works, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/nortriptyline/"
+    },
+    {
+      "name": "Nystatin",
+      "description": "Find out how nystatin treats and prevents infections caused by a fungus or yeast, including oral thrush and skin infections, and how to take or use it.",
+      "url": "https://api.nhs.uk/medicines/nystatin/"
+    }
+  ],
+  [
+    {
+      "name": "Olanzapine",
+      "description": "NHS medicines information on olanzapine – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/olanzapine/"
+    },
+    {
+      "name": "Olmesartan",
+      "description": "Brand name: Olmetec. Find out how olmesartan treats high blood pressure (hypertension) and how to take it.",
+      "url": "https://api.nhs.uk/medicines/olmesartan/"
+    },
+    {
+      "name": "Omeprazole",
+      "description": "Find out how omeprazole can treat your indigestion and heartburn, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/omeprazole/"
+    },
+    {
+      "name": "Oxybutynin",
+      "description": "NHS medicines information on oxybutynin – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/oxybutynin/"
+    },
+    {
+      "name": "Oxycodone",
+      "description": "Find out how oxycodone treats severe pain and how to take it.",
+      "url": "https://api.nhs.uk/medicines/oxycodone/"
+    },
+    {
+      "name": "Pantoprazole",
+      "description": "NHS medicines information on pantoprazole – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/pantoprazole/"
+    },
+    {
+      "name": "Paracetamol for adults",
+      "description": "Find out how paracetamol for adults treats aches, pains and high temperature, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/paracetamol-for-adults/"
+    },
+    {
+      "name": "Paracetamol for children (Calpol)",
+      "description": "Find out how paracetamol for children treats pain and high temperature, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/paracetamol-for-children/"
+    },
+    {
+      "name": "Paroxetine",
+      "description": "Brand name: Seroxat. Find out how paroxetine treats depression and anxiety, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/paroxetine/"
+    },
+    {
+      "name": "Paxlovid",
+      "description": "Find out how Paxlovid treats COVID-19 and how to take it.",
+      "url": "https://api.nhs.uk/medicines/paxlovid/"
+    },
+    {
+      "name": "Peppermint oil",
+      "description": "NHS medicines information on peppermint oil – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/peppermint-oil/"
+    },
+    {
+      "name": "Pepto-Bismol (bismuth subsalicylate)",
+      "description": "Find out how Pepto-Bismol treats heartburn and acid reflux, indigestion, diarrhoea and feeling sick, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/pepto-bismol/"
+    },
+    {
+      "name": "Perindopril",
+      "description": "Brand name: Coversyl Arginine. Find out how perindopril treats high blood pressure (hypertension) and heart failure, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/perindopril/"
+    },
+    {
+      "name": "Phenoxymethylpenicillin",
+      "description": "Brand name: Penicillin V. Find out how phenoxymethylpenicillin treats infections and how to take it.",
+      "url": "https://api.nhs.uk/medicines/phenoxymethylpenicillin/"
+    },
+    {
+      "name": "Phenytoin",
+      "description": "Brand names: Epanutin, Epanutin Infatabs. Find out how phenytoin treats epilepsy and trigeminal neuralgia, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/phenytoin/"
+    },
+    {
+      "name": "Pioglitazone",
+      "description": "Brand name: Actos. Find out how pioglitazone treats type 2 diabetes and how to take it.",
+      "url": "https://api.nhs.uk/medicines/pioglitazone/"
+    },
+    {
+      "name": "Pravastatin",
+      "description": "Brand name: Pravachol. Find out how pravastatin treats high cholesterol and prevents heart attacks and strokes, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/pravastatin/"
+    },
+    {
+      "name": "Pre-Exposure Prophylaxis (PrEP)",
+      "description": "Find out how PrEP reduces the risk of getting HIV and how to take it.",
+      "url": "https://api.nhs.uk/medicines/pre-exposure-prophylaxis-prep/"
+    },
+    {
+      "name": "Prednisolone tablets and liquid",
+      "description": "Brand names: Deltacortril, Deltastab, Dilacort, Pevanti. Find out how prednisolone treats health problems and how to take it.",
+      "url": "https://api.nhs.uk/medicines/prednisolone/"
+    },
+    {
+      "name": "Pregabalin",
+      "description": "NHS medicines information on pregabalin – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/pregabalin/"
+    },
+    {
+      "name": "Prochlorperazine",
+      "description": "Find out how prochlorperazine treats feeling or being sick, including pregnancy sickness, motion sickness and symptoms of Ménière's disease, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/prochlorperazine/"
+    },
+    {
+      "name": "Promethazine (Phenergan)",
+      "description": "NHS medicines information on promethazine – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/promethazine/"
+    },
+    {
+      "name": "Propranolol",
+      "description": "NHS medicines information on propranolol – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/propranolol/"
+    },
+    {
+      "name": "Pseudoephedrine (Sudafed)",
+      "description": "Find out how pseudoephedrine treats a blocked or stuffy nose, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/pseudoephedrine/"
+    },
+    {
+      "name": "Quetiapine",
+      "description": "Find out how quetiapine treats mental health conditions including schizophrenia and bipolar disorder, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/quetiapine/"
+    }
+  ],
+  [
+    {
+      "name": "Rabeprazole",
+      "description": "Brand name: Pariet. Find out how rabeprazole treats indigestion, heartburn, stomach acid and stomach ulcers and how to take it.",
+      "url": "https://api.nhs.uk/medicines/rabeprazole/"
+    },
+    {
+      "name": "Ramipril",
+      "description": "Brand name: Tritace. Find out how ramipril treats high blood pressure (hypertension) and heart failure, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/ramipril/"
+    },
+    {
+      "name": "Ranitidine",
+      "description": "NHS medicines information on ranitidine – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/ranitidine/"
+    },
+    {
+      "name": "Remdesivir (Veklury)",
+      "description": "Find out how remdesivir treats COVID-19 and how to get treatment.",
+      "url": "https://api.nhs.uk/medicines/remdesivir-veklury/"
+    },
+    {
+      "name": "Risedronate",
+      "description": "Find out how risedronate helps your bones stay strong, prevents osteoporosis and treats Paget's disease of bone, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/risedronate/"
+    },
+    {
+      "name": "Risperidone",
+      "description": "NHS medicines information on risperidone – how it works, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/risperidone/"
+    },
+    {
+      "name": "Rivaroxaban",
+      "description": "Brand name: Xarelto. Find out how rivaroxaban helps to prevent blood clots, reduces the risk of heart attacks and stroke, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/rivaroxaban/"
+    },
+    {
+      "name": "Ropinirole",
+      "description": "NHS medicines information on ropinirole – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/ropinirole/"
+    },
+    {
+      "name": "Rosuvastatin",
+      "description": "Brand name: Crestor. Find out how rosuvastatin treats high cholesterol and how to take it.",
+      "url": "https://api.nhs.uk/medicines/rosuvastatin/"
+    },
+    {
+      "name": "Salbutamol inhaler",
+      "description": "NHS medicines information on salbutamol inhaler – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/salbutamol-inhaler/"
+    },
+    {
+      "name": "Saxagliptin",
+      "description": "Brand name: Onglyza. Find out how saxagliptin treats type 2 diabetes, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/saxagliptin/"
+    },
+    {
+      "name": "Senna",
+      "description": "Brand name: Senokot. Find out how senna treats difficulty pooing (constipation) and how to take it.",
+      "url": "https://api.nhs.uk/medicines/senna/"
+    },
+    {
+      "name": "Sertraline",
+      "description": "Brand name: Lustral. Find out how sertraline treats depression and other mental health conditions, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/sertraline/"
+    },
+    {
+      "name": "Sildenafil (Viagra)",
+      "description": "Other brand names: Aronix, Liberize, Nipatra, Revatio, Grandipam. Find out how sildenafil treats erection problems and pulmonary hypertension and how to take it.",
+      "url": "https://api.nhs.uk/medicines/sildenafil-viagra/"
+    },
+    {
+      "name": "Simeticone",
+      "description": "Find out how simeticone treats farting (flatulence), bloating and trapped wind, and colic in babies, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/simeticone/"
+    },
+    {
+      "name": "Simvastatin",
+      "description": "Brand names: Zocor, Simvador. Find out how simvastatin treats high cholesterol, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/simvastatin/"
+    },
+    {
+      "name": "Sitagliptin",
+      "description": "Brand name: Januvia. Find out how sitagliptin treats type 2 diabetes, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/sitagliptin/"
+    },
+    {
+      "name": "Sodium cromoglicate capsules",
+      "description": "Find out how sodium cromoglicate capsules treat food allergies, and how to take them.",
+      "url": "https://api.nhs.uk/medicines/sodium-cromoglicate-capsules/"
+    },
+    {
+      "name": "Sodium cromoglicate eye drops",
+      "description": "Find out how sodium cromoglicate eye drops treat allergies, and how to use them.",
+      "url": "https://api.nhs.uk/medicines/sodium-cromoglicate-eye-drops/"
+    },
+    {
+      "name": "Sodium valproate",
+      "description": "NHS medicines information on sodium valproate – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/sodium-valproate/"
+    },
+    {
+      "name": "Solifenacin",
+      "description": "NHS medicines information on solifenacin – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/solifenacin/"
+    },
+    {
+      "name": "Sotalol",
+      "description": "NHS medicines information on sotalol – what it's used for, side effects, dosage and who can take it",
+      "url": "https://api.nhs.uk/medicines/sotalol/"
+    },
+    {
+      "name": "Sotrovimab (Xevudy)",
+      "description": "Brand name: Xevudy. Find out how sotrovimab treats coronavirus (COVID-19) and how you will have it.",
+      "url": "https://api.nhs.uk/medicines/sotrovimab/"
+    },
+    {
+      "name": "Spironolactone",
+      "description": "Find out how spironolactone treats oedema (build-up of fluid), high blood pressure and hormone conditions, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/spironolactone/"
+    },
+    {
+      "name": "Sulfasalazine",
+      "description": "NHS medicines information on sulfasalazine – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/sulfasalazine/"
+    }
+  ],
+  [
+    {
+      "name": "Sumatriptan",
+      "description": "Find out how sumatriptan treats migraines and cluster headaches, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/sumatriptan/"
+    },
+    {
+      "name": "Tadalafil",
+      "description": "Find out how tadalafil treats erectile dysfunction, pulmonary hypertension and benign prostate enlargement, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/tadalafil/"
+    },
+    {
+      "name": "Tamsulosin",
+      "description": "Find out how tamsulosin treats symptoms of an enlarged prostate and kidney stones, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/tamsulosin/"
+    },
+    {
+      "name": "Temazepam",
+      "description": "Find out how temazepam treats sleeping problems (insomnia) and how to take it.",
+      "url": "https://api.nhs.uk/medicines/temazepam/"
+    },
+    {
+      "name": "Terbinafine",
+      "description": "Find out how terbinafine treats fungal skin infections such as athlete's foot, and how to take or use it.",
+      "url": "https://api.nhs.uk/medicines/terbinafine/"
+    },
+    {
+      "name": "Thiamine (vitamin B1)",
+      "description": "Find out how thiamine treats and prevents vitamin B1 deficiency and how to take it.",
+      "url": "https://api.nhs.uk/medicines/thiamine-vitamin-b1/"
+    },
+    {
+      "name": "Ticagrelor",
+      "description": "NHS medicines information on ticagrelor – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/ticagrelor/"
+    },
+    {
+      "name": "Timolol eye drops",
+      "description": "Find out how timolol eye drops treat high pressure inside the eye or glaucoma, and how to use them.",
+      "url": "https://api.nhs.uk/medicines/timolol-eye-drops/"
+    },
+    {
+      "name": "Timolol tablets",
+      "description": "Find out how timolol tablets treat high blood pressure, angina and prevent migraine, and how to take them.",
+      "url": "https://api.nhs.uk/medicines/timolol-tablets/"
+    },
+    {
+      "name": "Tolterodine",
+      "description": "NHS medicines information on tolterodine – what it’s used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/tolterodine/"
+    },
+    {
+      "name": "Topiramate",
+      "description": "Brand name: Topamax. Find out how topiramate treats epilepsy and migraine, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/topiramate/"
+    },
+    {
+      "name": "Tramadol",
+      "description": "Brand names: Maxitram, Marol, Zydol, Zamadol, Tramulief, Tramquel. Find out how tramadol treats moderate to severe pain and how to take it.",
+      "url": "https://api.nhs.uk/medicines/tramadol/"
+    },
+    {
+      "name": "Tranexamic acid",
+      "description": "Find out how tranexamic acid treats bleeding, including heavy periods, nosebleeds and hereditary angioedema, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/tranexamic-acid/"
+    },
+    {
+      "name": "Trastuzumab (Herceptin)",
+      "description": "Find out how trastuzumab treats some types of cancer and how you will be given it.",
+      "url": "https://api.nhs.uk/medicines/trastuzumab-herceptin/"
+    },
+    {
+      "name": "Trazodone",
+      "description": "Brand name: Molipaxin. Find out how trazodone treats depression and anxiety and how to take it.",
+      "url": "https://api.nhs.uk/medicines/trazodone/"
+    },
+    {
+      "name": "Trimethoprim",
+      "description": "NHS medicines information on trimethoprim – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/trimethoprim/"
+    },
+    {
+      "name": "Valproic acid",
+      "description": "NHS medicines information on valproic acid – what it's used for, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/valproic-acid/"
+    },
+    {
+      "name": "Valsartan",
+      "description": "Brand name: Diovan. Find out how valsartan treats high blood pressure and heart failure, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/valsartan/"
+    },
+    {
+      "name": "Venlafaxine",
+      "description": "Brand names: Vensir, Vencarm, Venlalix, Efexor, Venlablue. Find out how venlafaxine treats depression and anxiety, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/venlafaxine/"
+    },
+    {
+      "name": "Verapamil",
+      "description": "NHS medicines information on verapamil – how it works, side effects, dosage and who can take it.",
+      "url": "https://api.nhs.uk/medicines/verapamil/"
+    },
+    {
+      "name": "Warfarin",
+      "description": "Find out how warfarin treats blood clots and reduces risk of heart attacks and stroke, and how to take it.",
+      "url": "https://api.nhs.uk/medicines/warfarin/"
+    },
+    {
+      "name": "Zolpidem",
+      "description": "Find out how zolpidem treats sleeping problems (insomnia) and how to take it.",
+      "url": "https://api.nhs.uk/medicines/zolpidem/"
+    },
+    {
+      "name": "Zopiclone",
+      "description": "Brand name: Zimovane. Find out how zopiclone treats sleeping problems (insomnia) and how to take it.",
+      "url": "https://api.nhs.uk/medicines/zopiclone/"
+    }
   ]
 ]

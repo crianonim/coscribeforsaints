@@ -1,0 +1,449 @@
+{
+  "@context": "http://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Medicines A to Z",
+  "copyrightHolder": {
+    "name": "Crown Copyright",
+    "@type": "Organization"
+  },
+  "license": "https://developer.api.nhs.uk/terms",
+  "author": {
+    "url": "https://www.nhs.uk",
+    "logo": "https://www.nhs.uk/nhscwebservices/documents/logo1.jpg",
+    "email": "nhswebsite.servicedesk@nhs.net",
+    "@type": "Organization",
+    "name": "NHS website"
+  },
+  "about": {
+    "@type": "WebPage",
+    "name": "Medicines A to Z",
+    "alternateName": ""
+  },
+  "description": "Find out how your medicine works, how and when to take it, possible side effects and answers to your common questions.",
+  "url": "https://api.nhs.uk/medicines/",
+  "genre": [],
+  "keywords": "",
+  "dateModified": "",
+  "breadcrumb": {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 0,
+        "item": {
+          "@id": "https://api.nhs.uk/medicines/",
+          "name": "Medicines A to Z",
+          "genre": []
+        }
+      }
+    ]
+  },
+  "contentSubTypes": [],
+  "significantLink": [
+    {
+      "@type": "LinkRole",
+      "name": "Rabeprazole",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/rabeprazole/",
+      "description": "Brand name: Pariet. Find out how rabeprazole treats indigestion, heartburn, stomach acid and stomach ulcers and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:56:54+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Ramipril",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/ramipril/",
+      "description": "Brand name: Tritace. Find out how ramipril treats high blood pressure (hypertension) and heart failure, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-24T14:43:05+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Ranitidine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/ranitidine/",
+      "description": "NHS medicines information on ranitidine \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-07-16T08:33:00+00:00",
+          "2024-07-16T08:33:00+00:00"
+        ],
+        "dateModified": "2021-11-18T16:03:49+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Remdesivir (Veklury)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/remdesivir-veklury/",
+      "description": "Find out how remdesivir treats COVID-19 and how to get treatment.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-07-12T17:20:00+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Risedronate",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/risedronate/",
+      "description": "Find out how risedronate helps your bones stay strong, prevents osteoporosis and treats Paget's disease of bone, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:56:23+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Risperidone",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/risperidone/",
+      "description": "NHS medicines information on risperidone \u2013 how it works, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-08-25T08:51:00+00:00",
+          "2024-08-25T08:51:00+00:00"
+        ],
+        "dateModified": "2023-06-21T12:24:33+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Rivaroxaban",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/rivaroxaban/",
+      "description": "Brand name: Xarelto. Find out how rivaroxaban helps to prevent blood clots, reduces the risk of heart attacks and stroke, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:56:12+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Ropinirole",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/ropinirole/",
+      "description": "NHS medicines information on ropinirole \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-07-20T14:00:00+00:00",
+          "2024-07-20T14:00:00+00:00"
+        ],
+        "dateModified": "2023-09-14T18:41:45+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Rosuvastatin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/rosuvastatin/",
+      "description": "Brand name: Crestor. Find out how rosuvastatin treats high cholesterol and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:55:20+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Salbutamol inhaler",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/salbutamol-inhaler/",
+      "description": "NHS medicines information on salbutamol inhaler \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-12-14T01:00:00+00:00",
+          "2024-12-14T01:00:00+00:00"
+        ],
+        "dateModified": "2023-07-14T15:54:56+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Saxagliptin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/saxagliptin/",
+      "description": "Brand name: Onglyza. Find out how saxagliptin treats type 2 diabetes, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:55:08+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Senna",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/senna/",
+      "description": "Brand name: Senokot. Find out how senna treats difficulty pooing (constipation) and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:54:58+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Sertraline",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/sertraline/",
+      "description": "Brand name: Lustral. Find out how sertraline treats depression and other mental health conditions, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:54:34+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Sildenafil (Viagra)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/sildenafil-viagra/",
+      "description": "Other brand names: Aronix, Liberize, Nipatra, Revatio, Grandipam. Find out how sildenafil treats erection problems and pulmonary hypertension and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:58:00+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Simeticone",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/simeticone/",
+      "description": "Find out how simeticone treats farting (flatulence), bloating and trapped wind, and colic in babies, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:54:12+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Simvastatin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/simvastatin/",
+      "description": "Brand names: Zocor, Simvador. Find out how simvastatin treats high cholesterol, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:53:19+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Sitagliptin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/sitagliptin/",
+      "description": "Brand name: Januvia. Find out how sitagliptin treats type 2 diabetes, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:52:57+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Sodium cromoglicate capsules",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/sodium-cromoglicate-capsules/",
+      "description": "Find out how sodium cromoglicate capsules treat food allergies, and how to take them.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:52:43+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Sodium cromoglicate eye drops",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/sodium-cromoglicate-eye-drops/",
+      "description": "Find out how sodium cromoglicate eye drops treat allergies, and how to use them.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:52:33+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Sodium valproate",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/sodium-valproate/",
+      "description": "NHS medicines information on sodium valproate \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-08-24T11:34:00+00:00",
+          "2024-08-24T11:34:00+00:00"
+        ],
+        "dateModified": "2023-08-22T13:03:41+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Solifenacin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/solifenacin/",
+      "description": "NHS medicines information on solifenacin \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-06-11T14:37:00+00:00",
+          "2024-06-11T14:37:00+00:00"
+        ],
+        "dateModified": "2023-07-25T16:06:31+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Sotalol",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/sotalol/",
+      "description": "NHS medicines information on sotalol \u2013 what it's used for, side effects, dosage and who can take it",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-11-17T09:53:00+00:00",
+          "2024-11-17T09:53:00+00:00"
+        ],
+        "dateModified": "2023-07-07T15:28:26+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Sotrovimab (Xevudy)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/sotrovimab/",
+      "description": "Brand name: Xevudy. Find out how sotrovimab treats coronavirus (COVID-19) and how you will have it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-06-27T09:54:26+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Spironolactone",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/spironolactone/",
+      "description": "Find out how spironolactone treats oedema (build-up of fluid), high blood pressure and hormone conditions, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:50:02+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Sulfasalazine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/sulfasalazine/",
+      "description": "NHS medicines information on sulfasalazine \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-07-05T14:44:00+00:00",
+          "2024-07-05T14:44:00+00:00"
+        ],
+        "dateModified": "2023-04-21T14:54:36+00:00",
+        "@type": "MedicalWebPage"
+      }
+    }
+  ],
+  "relatedLink": [
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=1",
+      "name": "First Page",
+      "description": "Link to First Page",
+      "linkRelationship": "Pagination"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=11",
+      "name": "Last Page",
+      "description": "Link to Last Page",
+      "linkRelationship": "Pagination"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=10",
+      "name": "Self",
+      "description": "Link to nhs.uk Page",
+      "linkRelationship": "Self"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=11",
+      "name": "Next Page",
+      "description": "Link to Next Page",
+      "linkRelationship": "Pagination"
+    }
+  ]
+}

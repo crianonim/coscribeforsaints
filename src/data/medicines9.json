@@ -1,0 +1,446 @@
+{
+  "@context": "http://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Medicines A to Z",
+  "copyrightHolder": {
+    "name": "Crown Copyright",
+    "@type": "Organization"
+  },
+  "license": "https://developer.api.nhs.uk/terms",
+  "author": {
+    "url": "https://www.nhs.uk",
+    "logo": "https://www.nhs.uk/nhscwebservices/documents/logo1.jpg",
+    "email": "nhswebsite.servicedesk@nhs.net",
+    "@type": "Organization",
+    "name": "NHS website"
+  },
+  "about": {
+    "@type": "WebPage",
+    "name": "Medicines A to Z",
+    "alternateName": ""
+  },
+  "description": "Find out how your medicine works, how and when to take it, possible side effects and answers to your common questions.",
+  "url": "https://api.nhs.uk/medicines/",
+  "genre": [],
+  "keywords": "",
+  "dateModified": "",
+  "breadcrumb": {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 0,
+        "item": {
+          "@id": "https://api.nhs.uk/medicines/",
+          "name": "Medicines A to Z",
+          "genre": []
+        }
+      }
+    ]
+  },
+  "contentSubTypes": [],
+  "significantLink": [
+    {
+      "@type": "LinkRole",
+      "name": "Olanzapine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/olanzapine/",
+      "description": "NHS medicines information on olanzapine \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-07-27T14:00:00+00:00",
+          "2024-07-27T14:00:00+00:00"
+        ],
+        "dateModified": "2023-07-10T17:20:46+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Olmesartan",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/olmesartan/",
+      "description": "Brand name: Olmetec. Find out how olmesartan treats high blood pressure (hypertension) and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-24T14:41:37+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Omeprazole",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/omeprazole/",
+      "description": "Find out how omeprazole can treat your indigestion and heartburn, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:02:59+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Oxybutynin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/oxybutynin/",
+      "description": "NHS medicines information on oxybutynin \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-06-15T08:10:00+00:00",
+          "2024-06-15T08:10:00+00:00"
+        ],
+        "dateModified": "2023-09-14T18:40:40+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Oxycodone",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/oxycodone/",
+      "description": "Find out how oxycodone treats severe pain and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-09-05T08:05:26+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Pantoprazole",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/pantoprazole/",
+      "description": "NHS medicines information on pantoprazole \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-11-15T15:48:00+00:00",
+          "2024-11-15T15:48:00+00:00"
+        ],
+        "dateModified": "2023-07-05T13:40:02+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Paracetamol for adults",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/paracetamol-for-adults/",
+      "description": "Find out how paracetamol for adults treats aches, pains and high temperature, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:02:41+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Paracetamol for children (Calpol)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/paracetamol-for-children/",
+      "description": "Find out how paracetamol for children treats pain and high temperature, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:01:00+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Paroxetine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/paroxetine/",
+      "description": "Brand name: Seroxat. Find out how paroxetine treats depression and anxiety, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:00:46+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Paxlovid",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/paxlovid/",
+      "description": "Find out how Paxlovid treats COVID-19 and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-07-12T17:14:41+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Peppermint oil",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/peppermint-oil/",
+      "description": "NHS medicines information on peppermint oil \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-07-12T13:54:00+00:00",
+          "2024-07-12T13:54:00+00:00"
+        ],
+        "dateModified": "2022-02-21T12:55:08+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Pepto-Bismol (bismuth subsalicylate)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/pepto-bismol/",
+      "description": "Find out how Pepto-Bismol treats heartburn and acid reflux, indigestion, diarrhoea and feeling sick, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:00:23+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Perindopril",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/perindopril/",
+      "description": "Brand name: Coversyl Arginine. Find out how perindopril treats high blood pressure (hypertension) and heart failure, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-24T14:42:15+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Phenoxymethylpenicillin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/phenoxymethylpenicillin/",
+      "description": "Brand name: Penicillin V. Find out how phenoxymethylpenicillin treats infections and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-28T14:57:33+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Phenytoin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/phenytoin/",
+      "description": "Brand names: Epanutin, Epanutin Infatabs. Find out how phenytoin treats epilepsy and trigeminal neuralgia, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:59:53+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Pioglitazone",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/pioglitazone/",
+      "description": "Brand name: Actos. Find out how pioglitazone treats type 2 diabetes and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:59:44+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Pravastatin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/pravastatin/",
+      "description": "Brand name: Pravachol. Find out how pravastatin treats high cholesterol and prevents heart attacks and strokes, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:59:34+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Pre-Exposure Prophylaxis (PrEP)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/pre-exposure-prophylaxis-prep/",
+      "description": "Find out how PrEP reduces the risk of getting HIV and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:59:20+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Prednisolone tablets and liquid",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/prednisolone/",
+      "description": "Brand names: Deltacortril, Deltastab, Dilacort, Pevanti. Find out how prednisolone treats health problems and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:59:10+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Pregabalin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/pregabalin/",
+      "description": "NHS medicines information on pregabalin \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-11-16T20:31:00+00:00",
+          "2024-11-16T20:31:00+00:00"
+        ],
+        "dateModified": "2023-07-05T14:10:16+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Prochlorperazine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/prochlorperazine/",
+      "description": "Find out how prochlorperazine treats feeling or being sick, including pregnancy sickness, motion sickness and symptoms of M\u00e9ni\u00e8re's disease, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-09-14T18:32:02+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Promethazine (Phenergan)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/promethazine/",
+      "description": "NHS medicines information on promethazine \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-10-27T13:04:00+00:00",
+          "2024-10-27T14:04:00+00:00"
+        ],
+        "dateModified": "2023-06-21T12:21:47+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Propranolol",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/propranolol/",
+      "description": "NHS medicines information on propranolol \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-11-18T00:00:00+00:00",
+          "2024-11-18T00:00:00+00:00"
+        ],
+        "dateModified": "2023-08-22T13:02:02+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Pseudoephedrine (Sudafed)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/pseudoephedrine/",
+      "description": "Find out how pseudoephedrine treats a blocked or stuffy nose, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-06-29T16:05:35+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Quetiapine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/quetiapine/",
+      "description": "Find out how quetiapine treats mental health conditions including schizophrenia and bipolar disorder, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:57:21+00:00",
+        "@type": "MedicalWebPage"
+      }
+    }
+  ],
+  "relatedLink": [
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=1",
+      "name": "First Page",
+      "description": "Link to First Page",
+      "linkRelationship": "Pagination"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=11",
+      "name": "Last Page",
+      "description": "Link to Last Page",
+      "linkRelationship": "Pagination"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=9",
+      "name": "Self",
+      "description": "Link to nhs.uk Page",
+      "linkRelationship": "Self"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=10",
+      "name": "Next Page",
+      "description": "Link to Next Page",
+      "linkRelationship": "Pagination"
+    }
+  ]
+}

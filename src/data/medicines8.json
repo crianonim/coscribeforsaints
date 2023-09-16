@@ -1,0 +1,449 @@
+{
+  "@context": "http://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Medicines A to Z",
+  "copyrightHolder": {
+    "name": "Crown Copyright",
+    "@type": "Organization"
+  },
+  "license": "https://developer.api.nhs.uk/terms",
+  "author": {
+    "url": "https://www.nhs.uk",
+    "logo": "https://www.nhs.uk/nhscwebservices/documents/logo1.jpg",
+    "email": "nhswebsite.servicedesk@nhs.net",
+    "@type": "Organization",
+    "name": "NHS website"
+  },
+  "about": {
+    "@type": "WebPage",
+    "name": "Medicines A to Z",
+    "alternateName": ""
+  },
+  "description": "Find out how your medicine works, how and when to take it, possible side effects and answers to your common questions.",
+  "url": "https://api.nhs.uk/medicines/",
+  "genre": [],
+  "keywords": "",
+  "dateModified": "",
+  "breadcrumb": {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 0,
+        "item": {
+          "@id": "https://api.nhs.uk/medicines/",
+          "name": "Medicines A to Z",
+          "genre": []
+        }
+      }
+    ]
+  },
+  "contentSubTypes": [],
+  "significantLink": [
+    {
+      "@type": "LinkRole",
+      "name": "Memantine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/memantine/",
+      "description": "Find out how memantine treats dementia, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:05:12+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Mesalazine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/mesalazine/",
+      "description": "NHS medicines information on mesalazine \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-07-19T16:05:00+00:00",
+          "2024-07-19T16:05:00+00:00"
+        ],
+        "dateModified": "2023-08-23T10:44:59+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Metformin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/metformin/",
+      "description": "Brand names: Axpinet, Diagemet, Glucient, Glucophage, Metabet. Find out how metformin treats type 2 diabetes, gestational diabetes and polycystic ovary syndrome, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:05:02+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Methadone",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/methadone/",
+      "description": "NHS medicines information on methadone \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-03-24T00:00:00+00:00",
+          "2024-03-24T00:00:00+00:00"
+        ],
+        "dateModified": "2023-07-31T09:13:16+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Methotrexate",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/methotrexate/",
+      "description": "Find out how methotrexate treats rheumatoid arthritis, psoriasis, Crohn's disease and other autoimmune conditions, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-17T11:07:57+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Methylphenidate for adults",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/methylphenidate-adults/",
+      "description": "NHS medicines information on methylphenidate \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-07-27T17:27:00+00:00",
+          "2024-07-27T14:00:00+00:00"
+        ],
+        "dateModified": "2023-06-20T09:28:27+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Methylphenidate for children",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/methylphenidate-children/",
+      "description": "NHS medicines information on methylphenidate \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-07-27T14:38:00+00:00",
+          "2024-07-27T14:38:00+00:00"
+        ],
+        "dateModified": "2023-06-22T09:09:49+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Metoclopramide",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/metoclopramide/",
+      "description": "Find out how metoclopramide treats feeling sick (nausea) and being sick (vomiting), and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:04:50+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Metoprolol",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/metoprolol/",
+      "description": "Find out how metoprolol treats high blood pressure, heart problems and migraine, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:04:42+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Metronidazole",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/metronidazole/",
+      "description": "Brand names: Acea, Anabact, Flagyl, Metrogel, Metrosa, Rosiced, Rozex, Vaginyl, Zidoval, Zyomet. Find out how metronidazole treats infections and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:04:32+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Mirabegron",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/mirabegron/",
+      "description": "Find out how mirabegron treats the symptoms of an overactive bladder such as needing to pee more often, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-07-25T15:58:59+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Mirtazapine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/mirtazapine/",
+      "description": "Find out how mirtazapine treats depression, obsessive compulsive disorder (OCD) and anxiety, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:04:23+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Molnupiravir (Lagevrio)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/molnupiravir/",
+      "description": "Brand name: Lagevrio. Find out how molnupiravir treats COVID-19 and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-07-12T17:04:18+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Mometasone for skin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/mometasone-for-skin/",
+      "description": "NHS medicines information on mometasone for skin \u2013 what it\u2019s used for, side effects, dosage and who can use it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2020-10-14T08:29:00+00:00",
+          "2023-10-14T08:30:00+00:00"
+        ],
+        "dateModified": "2023-09-13T15:34:18+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Mometasone inhalers",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/mometasone-inhaler/",
+      "description": "Find out how mometasone inhalers treat asthma and how to use them.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-09-13T15:29:25+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Mometasone nasal spray",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/mometasone-nasal-spray/",
+      "description": "NHS medicines information on mometasone nasal spray \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2020-07-28T16:28:00+00:00",
+          "2023-07-28T16:28:00+00:00"
+        ],
+        "dateModified": "2023-09-13T15:32:52+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Montelukast",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/montelukast/",
+      "description": "Find out how montelukast treats symptoms of asthma and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-20T10:52:21+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Morphine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/morphine/",
+      "description": "Brand names: MST, Zomorph, Sevredol, Morphgesic, MXL, Oramorph. Find out how morphine treats severe pain and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-09-05T08:06:58+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Naproxen",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/naproxen/",
+      "description": "Brand names: Naprosyn, Stirlescent. Find out how naproxen treats pain and swelling and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:03:49+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Nefopam",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/nefopam/",
+      "description": "NHS medicines information on nefopam \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-05-13T15:17:00+00:00",
+          "2024-05-13T15:17:00+00:00"
+        ],
+        "dateModified": "2023-07-14T15:49:15+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Nicorandil",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/nicorandil/",
+      "description": "Brand name: Ikorel. Find out how nicorandil treats chest pain (angina), and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:03:40+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Nifedipine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/nifedipine/",
+      "description": "Brand names: Adalat, Adipine, Coracten, Fortipine, Nifedipress. Find out how nifedipine treats high blood pressure, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-24T14:41:03+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Nitrofurantoin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/nitrofurantoin/",
+      "description": "Brand names: Aratoin, Furadantin, Macrobid, Macrodantin. Find out how nitrofurantoin treats urinary tract infections (UTIs) and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:03:20+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Nortriptyline",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/nortriptyline/",
+      "description": "NHS medicines information on nortriptyline \u2013 how it works, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-06-22T10:55:00+00:00",
+          "2024-06-22T10:55:00+00:00"
+        ],
+        "dateModified": "2023-09-05T08:09:31+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Nystatin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/nystatin/",
+      "description": "Find out how nystatin treats and prevents infections caused by a fungus or yeast, including oral thrush and skin infections, and how to take or use it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-08-08T14:06:24+00:00",
+        "@type": "MedicalWebPage"
+      }
+    }
+  ],
+  "relatedLink": [
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=1",
+      "name": "First Page",
+      "description": "Link to First Page",
+      "linkRelationship": "Pagination"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=11",
+      "name": "Last Page",
+      "description": "Link to Last Page",
+      "linkRelationship": "Pagination"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=8",
+      "name": "Self",
+      "description": "Link to nhs.uk Page",
+      "linkRelationship": "Self"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=9",
+      "name": "Next Page",
+      "description": "Link to Next Page",
+      "linkRelationship": "Pagination"
+    }
+  ]
+}

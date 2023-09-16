@@ -1,0 +1,440 @@
+{
+  "@context": "http://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Medicines A to Z",
+  "copyrightHolder": {
+    "name": "Crown Copyright",
+    "@type": "Organization"
+  },
+  "license": "https://developer.api.nhs.uk/terms",
+  "author": {
+    "url": "https://www.nhs.uk",
+    "logo": "https://www.nhs.uk/nhscwebservices/documents/logo1.jpg",
+    "email": "nhswebsite.servicedesk@nhs.net",
+    "@type": "Organization",
+    "name": "NHS website"
+  },
+  "about": {
+    "@type": "WebPage",
+    "name": "Medicines A to Z",
+    "alternateName": ""
+  },
+  "description": "Find out how your medicine works, how and when to take it, possible side effects and answers to your common questions.",
+  "url": "https://api.nhs.uk/medicines/",
+  "genre": [],
+  "keywords": "",
+  "dateModified": "",
+  "breadcrumb": {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 0,
+        "item": {
+          "@id": "https://api.nhs.uk/medicines/",
+          "name": "Medicines A to Z",
+          "genre": []
+        }
+      }
+    ]
+  },
+  "contentSubTypes": [],
+  "significantLink": [
+    {
+      "@type": "LinkRole",
+      "name": "Lactulose",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lactulose/",
+      "description": "Brand names: Duphalac, Lactugal. Find out how lactulose treats constipation and hepatic encephalopathy, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:10:54+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Lamotrigine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lamotrigine/",
+      "description": "Brand name: Lamictal. Find out how lamotrigine treats epilepsy and bipolar disorder, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:10:41+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Lansoprazole",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lansoprazole/",
+      "description": "NHS medicines information on lansoprazole \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-11-15T11:48:00+00:00",
+          "2024-11-15T11:48:00+00:00"
+        ],
+        "dateModified": "2023-07-10T16:35:36+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Latanoprost",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/latanoprost/",
+      "description": "Find out how latanoprost treats high pressure inside the eye, and how to use it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:10:03+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Lercanidipine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lercanidipine/",
+      "description": "Brand name: Zanidip. Find out how lercanidipine treats high blood pressure (hypertension), and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-24T14:39:52+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Letrozole",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/letrozole/",
+      "description": "NHS medicines information on letrozole \u2013 what it's used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2020-07-20T23:00:00+00:00",
+          "2023-07-20T23:00:00+00:00"
+        ],
+        "dateModified": "2023-07-14T15:42:27+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Levetiracetam",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/levetiracetam/",
+      "description": "Brand names: Keppra, Desitrend. Find out how levetiracetam treats epilepsy, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:12:12+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Levothyroxine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/levothyroxine/",
+      "description": "NHS medicines information on levothyroxine \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Test", "Medicine"],
+        "lastReviewed": [
+          "2021-12-17T09:18:00+00:00",
+          "2024-12-17T09:18:00+00:00"
+        ],
+        "dateModified": "2023-08-03T08:14:11+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Lidocaine for mouth and throat",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lidocaine-for-mouth-and-throat/",
+      "description": "Find out how lidocaine treats mouth ulcers, sore throats and teething, and how to use it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:09:31+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Lidocaine for piles and itchy bottom",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lidocaine-for-piles-and-itchy-bottom/",
+      "description": "Find out how lidocaine treats piles (haemorrhoids) and itchy bottom, and how to use it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:09:09+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Lidocaine skin cream",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lidocaine-skin-cream/",
+      "description": "Find out how lidocaine skin cream numbs the skin before minor procedures, and how to use it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:09:00+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Linagliptin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/linagliptin/",
+      "description": "Brand name: Trajenta. Find out how linagliptin treats type 2 diabetes, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:08:51+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Lisinopril",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lisinopril/",
+      "description": "Brand name: Zestril. Find out how lisinopril treats high blood pressure (hypertension) and heart failure, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-24T14:40:15+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Lithium",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lithium/",
+      "description": "Find out how lithium treats mood disorders such as mania and bipolar disorder, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-08-14T09:37:14+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Loperamide",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/loperamide/",
+      "description": "NHS medicines information on loperamide \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-03-08T14:20:00+00:00",
+          "2024-03-08T00:00:00+00:00"
+        ],
+        "dateModified": "2023-04-21T15:35:38+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Loratadine (Clarityn)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/loratadine/",
+      "description": "NHS medicines information on loratadine (Clarityn) - what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-10-14T16:00:00+00:00",
+          "2024-10-14T16:00:00+00:00"
+        ],
+        "dateModified": "2023-04-21T15:34:00+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Lorazepam",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lorazepam/",
+      "description": "Find out how lorazepam treats anxiety and sleeping problems, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:07:14+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Losartan",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/losartan/",
+      "description": "Brand name: Cozaar. Find out how losartan treats high blood pressure (hypertension) and heart failure, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-24T14:40:39+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Low-dose aspirin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/low-dose-aspirin/",
+      "description": "Brand names: Danamep, Mandaprin, Nu-Seals. Find out how low-dose aspirin helps prevent heart attacks and strokes, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:06:53+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Lymecycline",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/lymecycline/",
+      "description": "Brand name: Tetralysal 300. Find out how lymecycline treats acne and infections and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:06:44+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Macrogol",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/macrogol/",
+      "description": "Find out how macrogol treats constipation and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:06:35+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Mebendazole",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/mebendazole/",
+      "description": "Find out how mebendazole treats threadworms, roundworms and other worm infections, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:05:46+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Mebeverine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/mebeverine/",
+      "description": "Find out how mebeverine treats muscle spasms and stomach cramps, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:05:36+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Medroxyprogesterone tablets",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/medroxyprogesterone-tablets/",
+      "description": "Find out how medroxyprogesterone tablets treat hormonal conditions such as heavy periods, endometriosis and polycystic ovary syndrome (PCOS), and how to take them.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-24T10:13:07+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Melatonin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/melatonin/",
+      "description": "Find out how melatonin treats sleep problems like insomnia, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:05:23+00:00",
+        "@type": "MedicalWebPage"
+      }
+    }
+  ],
+  "relatedLink": [
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=1",
+      "name": "First Page",
+      "description": "Link to First Page",
+      "linkRelationship": "Pagination"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=11",
+      "name": "Last Page",
+      "description": "Link to Last Page",
+      "linkRelationship": "Pagination"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=7",
+      "name": "Self",
+      "description": "Link to nhs.uk Page",
+      "linkRelationship": "Self"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=8",
+      "name": "Next Page",
+      "description": "Link to Next Page",
+      "linkRelationship": "Pagination"
+    }
+  ]
+}

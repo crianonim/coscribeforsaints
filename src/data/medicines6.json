@@ -1,0 +1,458 @@
+{
+  "@context": "http://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Medicines A to Z",
+  "copyrightHolder": {
+    "name": "Crown Copyright",
+    "@type": "Organization"
+  },
+  "license": "https://developer.api.nhs.uk/terms",
+  "author": {
+    "url": "https://www.nhs.uk",
+    "logo": "https://www.nhs.uk/nhscwebservices/documents/logo1.jpg",
+    "email": "nhswebsite.servicedesk@nhs.net",
+    "@type": "Organization",
+    "name": "NHS website"
+  },
+  "about": {
+    "@type": "WebPage",
+    "name": "Medicines A to Z",
+    "alternateName": ""
+  },
+  "description": "Find out how your medicine works, how and when to take it, possible side effects and answers to your common questions.",
+  "url": "https://api.nhs.uk/medicines/",
+  "genre": [],
+  "keywords": "",
+  "dateModified": "",
+  "breadcrumb": {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 0,
+        "item": {
+          "@id": "https://api.nhs.uk/medicines/",
+          "name": "Medicines A to Z",
+          "genre": []
+        }
+      }
+    ]
+  },
+  "contentSubTypes": [],
+  "significantLink": [
+    {
+      "@type": "LinkRole",
+      "name": "Glyceryl trinitrate (GTN)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/glyceryl-trinitrate-gtn/",
+      "description": "Find out how glyceryl trinitrate (GTN) treats angina (chest pain) and anal fissures and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-19T08:15:53+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Haloperidol",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/haloperidol/",
+      "description": "Find out how haloperidol treats mental health conditions and feeling or being sick, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-27T14:40:54+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Heparinoid",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/heparinoid/",
+      "description": "Find out how heparinoid treats bruising, haematoma and vein inflammation (superficial thrombophlebitis) and how to use it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:54:29+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hormone replacement therapy (HRT)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hormone-replacement-therapy-hrt/",
+      "description": "Find information about HRT for menopause symptoms, including the types of HRT, benefits and risks and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-08-24T10:41:25+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hydrocortisone",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone/",
+      "description": "NHS medicines information on hydrocortisone \u2013 what it is used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2020-12-22T15:24:00+00:00",
+          "2023-12-22T15:24:00+00:00"
+        ],
+        "dateModified": "2022-10-28T13:11:41+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hydrocortisone buccal tablets",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-buccal-tablets/",
+      "description": "NHS medicines information on hydrocortisone buccal tablets \u2013 what they're used for, who can take them, how to take them, side effects and dosage.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2020-12-14T12:20:00+00:00",
+          "2023-12-14T12:20:00+00:00"
+        ],
+        "dateModified": "2023-04-17T09:09:48+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hydrocortisone for piles and itchy bottom",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/",
+      "description": "NHS medicines information on hydrocortisone for piles and itchy bottom \u2013 what it's used for, side effects, dosage and who can use it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2020-12-18T14:25:00+00:00",
+          "2023-12-18T14:25:00+00:00"
+        ],
+        "dateModified": "2022-05-30T14:02:26+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hydrocortisone for skin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-skin-cream/",
+      "description": "NHS medicines information on hydrocortisone skin cream, ointment and lotion - what it\u2019s used for, who can use it, how to apply it, side effects and dosage.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2020-12-10T15:32:00+00:00",
+          "2023-12-10T01:00:00+00:00"
+        ],
+        "dateModified": "2022-04-08T08:21:24+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hydrocortisone injections",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-injections/",
+      "description": "NHS medicines information on hydrocortisone injections \u2013 what they're used for, side effects, and who can have them",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2020-12-18T14:41:00+00:00",
+          "2023-12-18T14:41:00+00:00"
+        ],
+        "dateModified": "2023-04-21T15:13:11+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hydrocortisone rectal foam",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-rectal-foam/",
+      "description": "NHS medicines information on hydrocortisone rectal foam \u2013 this medicine has been discontinued.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2020-12-22T15:15:00+00:00",
+          "2023-12-22T15:15:00+00:00"
+        ],
+        "dateModified": "2021-11-18T16:04:47+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hydrocortisone tablets",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hydrocortisone-tablets/",
+      "description": "NHS medicines information on hydrocortisone tablets \u2013 what they're used for, who can take them,  how to take them, side effects and dosage",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2020-12-10T11:20:00+00:00",
+          "2023-12-10T11:20:00+00:00"
+        ],
+        "dateModified": "2023-09-08T14:33:35+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hydroxocobalamin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hydroxocobalamin/",
+      "description": "Find out how hydroxocobalamin treats and prevents vitamin B12 deficiency anaemia, and how you'll have it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:16:03+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hydroxychloroquine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hydroxychloroquine/",
+      "description": "Find out how hydroxychloroquine treats inflammatory conditions including rheumatoid arthritis and skin conditions, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:11:24+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Hyoscine hydrobromide (Kwells and Joy-Rides)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/hyoscine-hydrobromide/",
+      "description": "Find out how hyoscine hydrobromide treats travel sickness and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:11:54+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Ibuprofen and codeine",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/",
+      "description": "NHS medicines information on ibuprofen and codeine \u2013 what it\u2019s used for, side effects, dosage and who can take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-06-01T13:06:00+00:00",
+          "2024-06-01T13:06:00+00:00"
+        ],
+        "dateModified": "2023-04-21T15:09:20+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Ibuprofen for adults (Nurofen)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/ibuprofen-for-adults/",
+      "description": "Other brand names: Brufen, Calprofen, Fenbid, Ibugel, Ibuleve. Find out how ibuprofen treats pain and swelling (inflammation), and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T14:55:01+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Ibuprofen for children",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/ibuprofen-for-children/",
+      "description": "Find out how ibuprofen for children treats pain and inflammation (swelling) including cold symptoms, teething, toothache, sprains and strains, and reduces a high temperature, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:14:30+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Indapamide",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/indapamide/",
+      "description": "Brand names: Natrilix, Indipam, Rawel, Tensaid, Alkapamid. Find out how indapamide treats high blood pressure and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-24T14:39:26+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Insulin",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/insulin/",
+      "description": "Find information about types of insulin and how to take it for type 1 diabetes, type 2 diabetes and gestational diabetes.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-07-17T12:48:23+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Irbesartan",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/irbesartan/",
+      "description": "Brand name: Aprovel. Find out how irbesartan treats high blood pressure (hypertension) and helps to prevent the risk of strokes, heart attacks and kidney problems.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:18:40+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Isosorbide mononitrate and isosorbide dinitrate",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/",
+      "description": "NHS medicines information on isosorbide mononitrate and isosorbide dinitrate \u2013 what they're used for, side effects, dosage and who can take them.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-07-01T16:03:00+00:00",
+          "2024-07-01T16:03:00+00:00"
+        ],
+        "dateModified": "2023-04-21T15:01:17+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Isotretinoin capsules (Roaccutane)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/isotretinoin-capsules/",
+      "description": "Other brand names: Rizuderm, Reticutan. Find out how isotretinoin capsules treat acne and how to take them.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-04-27T10:05:56+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Isotretinoin gel (Isotrex)",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/isotretinoin-gel/",
+      "description": "NHS medicines information on isotretinoin gel (Isotrex) \u2013 this medicine has been discontinued.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2022-06-14T14:05:00+00:00",
+          "2025-06-14T16:03:00+00:00"
+        ],
+        "dateModified": "2022-06-30T14:12:28+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Ketoconazole",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/ketoconazole/",
+      "description": "NHS medicines information on ketoconazole \u2013 what it's used for, side effects, dosage and who can use it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": [
+          "2021-06-24T15:57:00+00:00",
+          "2024-06-24T15:57:00+00:00"
+        ],
+        "dateModified": "2023-03-29T10:22:27+00:00",
+        "@type": "MedicalWebPage"
+      }
+    },
+    {
+      "@type": "LinkRole",
+      "name": "Labetalol",
+      "articleStatus": "published",
+      "linkRelationship": "Result",
+      "url": "https://api.nhs.uk/medicines/labetalol/",
+      "description": "Brand name: Trandate. Find out how labetalol treats high blood pressure (hypertension) including high blood pressure in pregnancy and angina, and how to take it.",
+      "mainEntityOfPage": {
+        "genre": ["Medicine"],
+        "lastReviewed": null,
+        "dateModified": "2023-03-15T15:11:58+00:00",
+        "@type": "MedicalWebPage"
+      }
+    }
+  ],
+  "relatedLink": [
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=1",
+      "name": "First Page",
+      "description": "Link to First Page",
+      "linkRelationship": "Pagination"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=11",
+      "name": "Last Page",
+      "description": "Link to Last Page",
+      "linkRelationship": "Pagination"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=6",
+      "name": "Self",
+      "description": "Link to nhs.uk Page",
+      "linkRelationship": "Self"
+    },
+    {
+      "@type": "LinkRole",
+      "url": "https://api.nhs.uk/medicines/?page=7",
+      "name": "Next Page",
+      "description": "Link to Next Page",
+      "linkRelationship": "Pagination"
+    }
+  ]
+}
